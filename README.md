@@ -6,7 +6,6 @@ This project analyzes synthetic healthcare insurance claims to identify payment 
 
 The project demonstrates the use of Python, SQL, and Power BI for healthcare payment integrity analytics.
 
-> This project uses synthetic data created for educational and portfolio purposes. It does not contain real patient or protected health information.
 
 ## Tech Stack
 
